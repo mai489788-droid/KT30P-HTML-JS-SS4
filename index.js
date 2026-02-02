@@ -1,4 +1,4 @@
-let n = 20; 
+let n = + prompt("nhập số nguyên n"); 
 
 if (n % 2 === 0) {
     console.log("Số " + n + " là số chẵn");
